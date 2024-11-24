@@ -1,5 +1,9 @@
 MAJOR REQUIREMENTS
 1.Latest version Python
-2.install PIP
-3.Install pandas 
-4.
+2. PIP
+3. libraries :
+pandas 
+scikit-learn 
+nltk 
+matplotlib
+
