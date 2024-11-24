@@ -6,4 +6,8 @@ pandas
 scikit-learn 
 nltk 
 matplotlib
+openpyxl
+joblib
+4.IDE: Such as Visual Studio
+
 
