@@ -34,6 +34,7 @@ data = {
 
 # Convert the dictionary into a DataFrame
 df = pd.DataFrame(data)
+df.to_excel('product_reviews.xlsx', index=False)
 
 # Function to preprocess text
 def preprocess_text(text):
